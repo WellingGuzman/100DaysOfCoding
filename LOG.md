@@ -25,3 +25,16 @@ I didn't need `transform-origin` z-axis to make it work properly and it doesn't 
 
 
 **Link to work:** [CSS3-3D-Flip-Cards](https://github.com/WellingGuzman/CSS3-3D-Flip-Cards/commit/58e72e265d68cdedf356f8e9b7e98913f6d0e043)
+
+### Day 003: May 12, 2018
+
+**Today's Progress**:
+
+- Rewrite my old experiment with camera+canvas+effect manipulating the pixels of the canvas.
+
+**Thoughts:**
+
+- Using the web camera stream and not playing result in a video autoplay with a low performance. Solution: add `autoplay` attribute or play the video with `video.play()`.
+- There's a lot of fun stuff to do with the camera and canvas element. There will be more!
+
+**Link to work:** [Duotone web camera](https://codepen.io/wellingguzman/pen/XqYKyy)
