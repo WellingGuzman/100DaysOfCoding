@@ -38,3 +38,16 @@ I didn't need `transform-origin` z-axis to make it work properly and it doesn't 
 - There's a lot of fun stuff to do with the camera and canvas element. There will be more!
 
 **Link to work:** [Duotone web camera](https://codepen.io/wellingguzman/pen/XqYKyy)
+
+### Day 004: May 13, 2018
+
+**Today's Progress**:
+
+- Playing around with glitch.com (express, jquery, ajax) and codepen.io
+
+**Thoughts:**
+
+- Express is not bundled with bodyParser neither methodOverride anymore.
+- Using jQuery after a while. use the `dataType: 'json'` to make sure jQuery.ajax parse the output as JSON.
+
+**Link to work:** https://valley-patio.glitch.me
