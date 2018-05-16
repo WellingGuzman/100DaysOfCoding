@@ -51,3 +51,28 @@ I didn't need `transform-origin` z-axis to make it work properly and it doesn't 
 - Using jQuery after a while. use the `dataType: 'json'` to make sure jQuery.ajax parse the output as JSON.
 
 **Link to work:** https://valley-patio.glitch.me
+
+### Day 005: May 14, 2018
+
+**Today's Progress**:
+
+- Starting to recall how to use `XMLHttpRequest` and make basic request.
+
+**Thoughts:**
+
+- It was hard trying to set this up when you are used to more easy to use libraries that does almost all the work for you.
+
+**Link to work:** https://scratch-skate.glitch.me
+
+### Day 006: May 15, 2018
+
+**Today's Progress**:
+
+- Accept `json` as the request body using `XMLHttpRequest`.
+- Add success and error callback.
+
+**Thoughts:**
+
+- You need to open the request before adding headers.
+
+**Link to work:** https://scratch-skate.glitch.me
