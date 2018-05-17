@@ -76,3 +76,17 @@ I didn't need `transform-origin` z-axis to make it work properly and it doesn't 
 - You need to open the request before adding headers.
 
 **Link to work:** https://scratch-skate.glitch.me
+
+### Day 007: May 16, 2018
+
+**Today's Progress**:
+
+- Add Promise support
+- Cleaned the function a bit more.
+- Removed the `dataType` param, and depends on the `Content-Type` header.
+
+**Thoughts:**
+
+- _Nothing_
+
+**Link to work:** https://scratch-skate.glitch.me
