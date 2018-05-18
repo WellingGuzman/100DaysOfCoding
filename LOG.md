@@ -90,3 +90,15 @@ I didn't need `transform-origin` z-axis to make it work properly and it doesn't 
 - _Nothing_
 
 **Link to work:** https://scratch-skate.glitch.me
+
+### Day 008: May 17, 2018
+
+**Today's Progress**:
+
+- Took the duotone demo from day 003 and starting wrap functions to create an app similar to https://duotones.co
+
+**Thoughts:**
+
+- Draging the color picker in the color input super slow, and I need to fix it or create a different picker.
+
+**Link to work:** https://axiomatic-stock.glitch.me
