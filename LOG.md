@@ -102,3 +102,17 @@ I didn't need `transform-origin` z-axis to make it work properly and it doesn't 
 - Draging the color picker in the color input super slow, and I need to fix it or create a different picker.
 
 **Link to work:** https://axiomatic-stock.glitch.me
+
+### Day 009: May 27, 2018
+
+**Today's Progress**:
+
+- Fixed the issue with the color picker
+
+**Thoughts:**
+
+I blamed the color picker for being super slow, when it was my event callback the problem. After taking this hiatus my brain was function normally and I found out I didn't debounce the event callback.
+
+While I was working on it I took the journey to understand how the debounce work internally and use a simple debounce function. I understood how it works and what it should do, but never look at how utility libraries such as lodash or underscore did it.
+
+**Link to work:** https://axiomatic-stock.glitch.me
