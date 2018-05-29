@@ -116,3 +116,18 @@ I blamed the color picker for being super slow, when it was my event callback th
 While I was working on it I took the journey to understand how the debounce work internally and use a simple debounce function. I understood how it works and what it should do, but never look at how utility libraries such as lodash or underscore did it.
 
 **Link to work:** https://axiomatic-stock.glitch.me
+
+### Day 010: May 28, 2018
+
+**Today's Progress**:
+
+- Add a swap color button
+- Use throttle instead of debounce
+
+**Thoughts:**
+
+I had the understanding of debounce and throttle flipped, trying so hard to understand why I couldn't make it work as I wanted to, at the end it was that I was looking for throttle.
+
+Throttle guarantee that afunction only gets called at most once every x ms, on the other hand debounce rejects all subsequents call until the function stops getting call for x ms.
+
+**Link to work:** https://axiomatic-stock.glitch.me
